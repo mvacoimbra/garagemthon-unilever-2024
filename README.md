@@ -1,4 +1,6 @@
-# [Garagemthon Unilever] Sistema de Coordenação de Doações
+<img src="https://github.com/user-attachments/assets/626bc161-bf8e-455f-93df-c6442e966f4e" >
+
+# [Garagemthon Unilever] Link for good - Sistema de Coordenação de Doações
 
 ## Descrição do Projeto
 
